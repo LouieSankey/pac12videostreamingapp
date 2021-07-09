@@ -16,8 +16,6 @@ import org.json.JSONException
 import org.json.JSONObject
 import java.io.IOException
 
-
-
     class MainActivity : AppCompatActivity() {
 
         private lateinit var binding: ActivityMainBinding
@@ -35,13 +33,13 @@ import java.io.IOException
             binding.recyclerView.layoutManager = LinearLayoutManager(this)
             binding.recyclerView.hasFixedSize()
 
-            getVOCPage("https://api.pac-12.com/v3/vod")
+            getVOCPage()
 
     }
 
-        fun getVOCPage(uri: String) {
+        fun getVOCPage() {
             val request = Request.Builder()
-                .url(uri)
+                .url("https://api.pac-12.com/v3/vod")
                 .build()
             client.newCall(request).enqueue(object : Callback {
                 override fun onFailure(call: Call, e: IOException) {
@@ -92,7 +90,6 @@ import java.io.IOException
 
                                 vods.add(obj)
                             }
-
 
                             runOnUiThread { // Stuff that updates the UI
                                 binding.recyclerView.setVODs(vods)

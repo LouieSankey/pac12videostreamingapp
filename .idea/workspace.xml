@@ -13,7 +13,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd55c851-312e-4b61-bd54-3807a83fe12e" name="Default Changelist" comment="" />
+    <list default="true" id="fd55c851-312e-4b61-bd54-3807a83fe12e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pac_12androidchallenge/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pac_12androidchallenge/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pac_12androidchallenge/VideoPlayerRecyclerView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pac_12androidchallenge/VideoPlayerRecyclerView.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1v0MLNMWsJfHUl97Ck8RnDKHvOX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,6 +49,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-09T04:52:51.920030Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="android-custom-view/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/java/com/example/pac_12androidchallenge/VideoPlayerRecyclerView.java_SELECTED" value="VideoPlayerRecyclerView" />
+    <property name="android-custom-view/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/java/com/example/pac_12androidchallenge/VideoPlayerRecyclerView.kt_SELECTED" value="VideoPlayerRecyclerView" />
     <property name="android-custom-view/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/java/com/example/pac_12androidchallenge/VideoPlayerRecyclerView1.kt_SELECTED" value="VideoPlayerRecyclerView" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -136,7 +144,19 @@
       <option name="presentableId" value="Default" />
       <updated>1625694496377</updated>
     </task>
+    <task id="LOCAL-00001" summary="finished project">
+      <created>1625807729310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625807729311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished project" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1851" y="199" key="#PSD" timestamp="1625703297126">
@@ -147,6 +167,10 @@
       <screen x="1366" y="23" width="1920" height="1057" />
     </state>
     <state x="1612" y="104" width="1342" height="537" key="AVDManager/1366.23.1920.1057/0.23.1366.745@1366.23.1920.1057" timestamp="1625783067868" />
+    <state x="1778" y="59" key="CommitChangelistDialog2" timestamp="1625807723372">
+      <screen x="1366" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1778" y="59" key="CommitChangelistDialog2/1366.23.1920.1057/0.23.1366.745@1366.23.1920.1057" timestamp="1625807723372" />
     <state x="2136" y="399" key="Github.ShareDialog" timestamp="1625807108281">
       <screen x="1366" y="23" width="1920" height="1057" />
     </state>
@@ -171,6 +195,10 @@
       <screen x="1366" y="23" width="1920" height="1057" />
     </state>
     <state x="1766" y="122" key="SettingsEditor/1366.23.1920.1057/0.23.1366.745@1366.23.1920.1057" timestamp="1625803207216" />
+    <state x="1894" y="235" key="Vcs.Push.Dialog.v2" timestamp="1625807851041">
+      <screen x="1366" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1894" y="235" key="Vcs.Push.Dialog.v2/1366.23.1920.1057/0.23.1366.745@1366.23.1920.1057" timestamp="1625807851041" />
     <state x="1558" y="124" width="1533" height="844" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1625801573172">
       <screen x="1366" y="23" width="1920" height="1057" />
     </state>

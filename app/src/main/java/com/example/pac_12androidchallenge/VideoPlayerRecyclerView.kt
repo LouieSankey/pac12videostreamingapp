@@ -32,7 +32,6 @@ import java.util.*
 class VideoPlayerRecyclerView : RecyclerView {
 
 
-    // ui
     private var thumbnail: ImageView? = null
     private var progressBar: ProgressBar? = null
     private var viewHolderParent: View? = null
@@ -44,7 +43,6 @@ class VideoPlayerRecyclerView : RecyclerView {
     private val trackSelector: TrackSelector = DefaultTrackSelector(videoTrackSelectionFactory)
     private var videoPlayer: SimpleExoPlayer? = ExoPlayerFactory.newSimpleInstance(context, trackSelector)
 
-    // vars
     private var vods = ArrayList<VOD>()
     private var videoSurfaceDefaultHeight = 0
     private var screenDefaultHeight = 0
@@ -52,7 +50,6 @@ class VideoPlayerRecyclerView : RecyclerView {
     private var playPosition = -1
     private var isVideoViewAdded = false
 
-    //glide
     private var requestManager: RequestManager? = null
 
     constructor(context: Context) : super(context) {
@@ -72,20 +69,18 @@ class VideoPlayerRecyclerView : RecyclerView {
         videoSurfaceDefaultHeight = point.x
         screenDefaultHeight = point.y
         videoSurfaceView = PlayerView(this.context)
-        //for adding surface views dynamically - in case its inserted into a view it doesn't fit perfectly
         videoSurfaceView!!.resizeMode = AspectRatioFrameLayout.RESIZE_MODE_ZOOM
 
 
         // 2. Create the exo player
-//        videoPlayer =
-        // Bind the player to the view.
+
         videoSurfaceView!!.useController = false
         videoSurfaceView!!.player = videoPlayer
         addOnScrollListener(object : OnScrollListener() {
             override fun onScrollStateChanged(recyclerView: RecyclerView, newState: Int) {
                 super.onScrollStateChanged(recyclerView, newState)
 
-                //you have to make sure the recycler view has stopped before taking actions
+                //make sure the recycler view has stopped before taking actions
                 if (newState == SCROLL_STATE_IDLE) {
                     Log.d(TAG, "onScrollStateChanged: called.")
                     if (thumbnail != null) { // show the old thumbnail
@@ -93,16 +88,8 @@ class VideoPlayerRecyclerView : RecyclerView {
                         thumbnail!!.visibility = VISIBLE
                     }
 
-                    // There's a special case when the end of the list has been reached.
-                    // Need to handle that with this bit of logic
-
-
-                    //add a query here for more videos?
                     if (!recyclerView.canScrollVertically(1)) {
-
                         playVideo(true)
-
-
                     } else {
                         playVideo(false)
                     }
@@ -110,6 +97,7 @@ class VideoPlayerRecyclerView : RecyclerView {
             }
 
         })
+
         addOnChildAttachStateChangeListener(object : OnChildAttachStateChangeListener {
             override fun onChildViewAttachedToWindow(view: View) {}
             override fun onChildViewDetachedFromWindow(view: View) {
@@ -120,7 +108,6 @@ class VideoPlayerRecyclerView : RecyclerView {
         })
 
 
-        //controls playback for exo player
         videoPlayer?.addListener(object : Player.EventListener {
             override fun onTimelineChanged(timeline: Timeline, manifest: Any?, reason: Int) {}
             override fun onTracksChanged(
@@ -172,7 +159,6 @@ class VideoPlayerRecyclerView : RecyclerView {
 
         //determines which video to play given more than one list item on the screen
         if (!isEndOfList) {
-            //first and last VISIBLE list items
             val startPosition =
                 (layoutManager as LinearLayoutManager?)!!.findFirstVisibleItemPosition()
             var endPosition =
@@ -183,7 +169,7 @@ class VideoPlayerRecyclerView : RecyclerView {
                 endPosition = startPosition + 1
             }
 
-            // something is wrong. return.
+            // error
             if (startPosition < 0 || endPosition < 0) {
                 return
             }
@@ -202,7 +188,6 @@ class VideoPlayerRecyclerView : RecyclerView {
         } else {
             targetPosition = vods.size - 1
         }
-        Log.d(TAG, "playVideo: target position: $targetPosition")
 
         // video is already playing so return
         if (targetPosition == playPosition) {
@@ -215,7 +200,7 @@ class VideoPlayerRecyclerView : RecyclerView {
             return
         }
 
-        // remove any old surface views from previously playing videos
+        // remove  old surface views from previously playing videos
         videoSurfaceView!!.visibility = INVISIBLE
         removeVideoView(videoSurfaceView)
         val currentPosition =
