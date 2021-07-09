@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.pac_12androidchallenge"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:5:5-66
+11-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:8:5-23:19
+15        android:name="androidx.multidex.MultiDexApplication"
+16        android:allowBackup="true"
+16-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.3.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/98827f4c9be62b6d5402d90c8c995960/core-1.3.2/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:11:9-43
+20        android:label="@string/app_name"
+20-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.Pac12AndroidChallenge" >
+24-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:15:9-59
+25        <activity android:name="com.example.pac_12androidchallenge.MainActivity" >
+25-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:16:9-22:20
+25-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:16:19-47
+26            <intent-filter>
+26-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:17:13-21:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:18:17-69
+27-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:18:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:20:17-77
+29-->/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:20:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <provider
+33-->[com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+34            android:name="com.squareup.picasso.PicassoProvider"
+34-->[com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+35            android:authorities="com.example.pac_12androidchallenge.com.squareup.picasso"
+35-->[com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+36            android:exported="false" />
+36-->[com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+37    </application>
+38
+39</manifest>

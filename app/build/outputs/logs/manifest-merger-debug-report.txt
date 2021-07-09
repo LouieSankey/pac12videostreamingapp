@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/9623811fa4c1f8f0ac456a71b88ab76c/viewbinding-4.2.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/5b34bfd4ada774e02c6ac2d3f3a84842/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/baddf408c743cd7daaeac570b2a22248/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/d27e8335d6c4ebacf0b2f340d3543550/core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0b1c85e470567ba146a4ab0add494570/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/b9972f23873aac7b9a345e4f8f7b8547/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/ffa596c1f9a25afa265e12d5403be142/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/2da2bfc5c8c8d8a3cbe35c60c1702b2a/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/79627d3df57c8eb4da9b1ebe9ef0c1c7/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0e1e8283e32dee5e455e47824815dc1b/glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/adb45897d5fa1296fcf7dbd743fc296e/exoplayer-2.8.4/AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/83590d76facd989b660e4f7b082e3e25/jetified-rxandroid-2.0.2/AndroidManifest.xml:15:1-21:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/04947d34670cd67edfce8a7d8ea5bc25/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/075873dd79579e9c01171e03b62427e8/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/6c709b987d75d7f2107c6acae83b7786/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/30154f6ab1e04b25a3dc69d9a3a650d2/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/9c23346d078db6a91510814c6f1f180f/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/68082369b436b0f1a41bb6d663c6bcb9/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0768c62e08c6e7847a77155d97558f01/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/a387f27385550de2c158689e68700b9e/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/071716c8ffa512be7ce0ae8ee4dc3968/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/9953ade05dc14a070124801df2bd0a63/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/1c74372eb69b9b8e71cf96d7f5acbb43/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/7d97a055b2ae316e536c5d2b11207119/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/1a3bb78fd3e5b57d2711019eee5c5069/jetified-exoplayer-ui-2.8.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/abb967fabfa19789071bf218fc46fe7d/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/98827f4c9be62b6d5402d90c8c995960/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/b43b6732dbec6817b78296ebfe47b1c4/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/353e8aac590d437fefec40ee95699cab/gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/c92ec28e3d7bb91b8ba375ed863a9776/jetified-exoplayer-dash-2.8.4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/bfc506ebc982225da05bb6672c7ce5cf/jetified-exoplayer-hls-2.8.4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/244f3d215523e1bf7fee1ad82ae6bf6b/jetified-exoplayer-smoothstreaming-2.8.4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/ff90a0fe2d241c55e11fb049bbf56042/jetified-exoplayer-core-2.8.4/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/888f5b25b297a3aa2185417d0c5f2e55/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/49040fa7cfb862e062cc92b376efdb69/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/4a2bad146527432d3483229fd6e70fd3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/6a1f20efbb6064aba33552db3ba12ceb/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/d6395cfe473b878009feabb793af2246/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/684ec28b4d47b99702b87e0142b87abc/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/d3d8c18a79b67d645bddfdd6fffb8703/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/f9e8569deeaf180b86f7562a710bfef1/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/edd8358959bcd574f4215fe1eabadd66/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/ff90a0fe2d241c55e11fb049bbf56042/jetified-exoplayer-core-2.8.4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/ff90a0fe2d241c55e11fb049bbf56042/jetified-exoplayer-core-2.8.4/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/baddf408c743cd7daaeac570b2a22248/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/baddf408c743cd7daaeac570b2a22248/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0b1c85e470567ba146a4ab0add494570/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0b1c85e470567ba146a4ab0add494570/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0e1e8283e32dee5e455e47824815dc1b/glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0e1e8283e32dee5e455e47824815dc1b/glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/98827f4c9be62b6d5402d90c8c995960/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/98827f4c9be62b6d5402d90c8c995960/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/353e8aac590d437fefec40ee95699cab/gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/353e8aac590d437fefec40ee95699cab/gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/888f5b25b297a3aa2185417d0c5f2e55/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/888f5b25b297a3aa2185417d0c5f2e55/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/98827f4c9be62b6d5402d90c8c995960/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:15:9-59
+activity#com.example.pac_12androidchallenge.MainActivity
+ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/9623811fa4c1f8f0ac456a71b88ab76c/viewbinding-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/9623811fa4c1f8f0ac456a71b88ab76c/viewbinding-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/5b34bfd4ada774e02c6ac2d3f3a84842/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/5b34bfd4ada774e02c6ac2d3f3a84842/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/baddf408c743cd7daaeac570b2a22248/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/baddf408c743cd7daaeac570b2a22248/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/d27e8335d6c4ebacf0b2f340d3543550/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/d27e8335d6c4ebacf0b2f340d3543550/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0b1c85e470567ba146a4ab0add494570/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0b1c85e470567ba146a4ab0add494570/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/b9972f23873aac7b9a345e4f8f7b8547/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/b9972f23873aac7b9a345e4f8f7b8547/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/ffa596c1f9a25afa265e12d5403be142/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/ffa596c1f9a25afa265e12d5403be142/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/2da2bfc5c8c8d8a3cbe35c60c1702b2a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/2da2bfc5c8c8d8a3cbe35c60c1702b2a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/79627d3df57c8eb4da9b1ebe9ef0c1c7/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/79627d3df57c8eb4da9b1ebe9ef0c1c7/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0e1e8283e32dee5e455e47824815dc1b/glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0e1e8283e32dee5e455e47824815dc1b/glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/adb45897d5fa1296fcf7dbd743fc296e/exoplayer-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/adb45897d5fa1296fcf7dbd743fc296e/exoplayer-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/83590d76facd989b660e4f7b082e3e25/jetified-rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/83590d76facd989b660e4f7b082e3e25/jetified-rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/04947d34670cd67edfce8a7d8ea5bc25/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/04947d34670cd67edfce8a7d8ea5bc25/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/075873dd79579e9c01171e03b62427e8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/075873dd79579e9c01171e03b62427e8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/6c709b987d75d7f2107c6acae83b7786/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/6c709b987d75d7f2107c6acae83b7786/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/30154f6ab1e04b25a3dc69d9a3a650d2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/30154f6ab1e04b25a3dc69d9a3a650d2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/9c23346d078db6a91510814c6f1f180f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/9c23346d078db6a91510814c6f1f180f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/68082369b436b0f1a41bb6d663c6bcb9/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/68082369b436b0f1a41bb6d663c6bcb9/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0768c62e08c6e7847a77155d97558f01/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/0768c62e08c6e7847a77155d97558f01/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/a387f27385550de2c158689e68700b9e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/a387f27385550de2c158689e68700b9e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/071716c8ffa512be7ce0ae8ee4dc3968/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/071716c8ffa512be7ce0ae8ee4dc3968/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/9953ade05dc14a070124801df2bd0a63/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/9953ade05dc14a070124801df2bd0a63/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/1c74372eb69b9b8e71cf96d7f5acbb43/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/1c74372eb69b9b8e71cf96d7f5acbb43/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/7d97a055b2ae316e536c5d2b11207119/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/7d97a055b2ae316e536c5d2b11207119/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/1a3bb78fd3e5b57d2711019eee5c5069/jetified-exoplayer-ui-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/1a3bb78fd3e5b57d2711019eee5c5069/jetified-exoplayer-ui-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/abb967fabfa19789071bf218fc46fe7d/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/abb967fabfa19789071bf218fc46fe7d/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/98827f4c9be62b6d5402d90c8c995960/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/98827f4c9be62b6d5402d90c8c995960/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/b43b6732dbec6817b78296ebfe47b1c4/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/b43b6732dbec6817b78296ebfe47b1c4/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/353e8aac590d437fefec40ee95699cab/gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/353e8aac590d437fefec40ee95699cab/gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/c92ec28e3d7bb91b8ba375ed863a9776/jetified-exoplayer-dash-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/c92ec28e3d7bb91b8ba375ed863a9776/jetified-exoplayer-dash-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/bfc506ebc982225da05bb6672c7ce5cf/jetified-exoplayer-hls-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/bfc506ebc982225da05bb6672c7ce5cf/jetified-exoplayer-hls-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/244f3d215523e1bf7fee1ad82ae6bf6b/jetified-exoplayer-smoothstreaming-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/244f3d215523e1bf7fee1ad82ae6bf6b/jetified-exoplayer-smoothstreaming-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/ff90a0fe2d241c55e11fb049bbf56042/jetified-exoplayer-core-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/ff90a0fe2d241c55e11fb049bbf56042/jetified-exoplayer-core-2.8.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/888f5b25b297a3aa2185417d0c5f2e55/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/888f5b25b297a3aa2185417d0c5f2e55/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/49040fa7cfb862e062cc92b376efdb69/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/49040fa7cfb862e062cc92b376efdb69/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/4a2bad146527432d3483229fd6e70fd3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/4a2bad146527432d3483229fd6e70fd3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/6a1f20efbb6064aba33552db3ba12ceb/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/6a1f20efbb6064aba33552db3ba12ceb/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/d6395cfe473b878009feabb793af2246/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/d6395cfe473b878009feabb793af2246/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/684ec28b4d47b99702b87e0142b87abc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/684ec28b4d47b99702b87e0142b87abc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/d3d8c18a79b67d645bddfdd6fffb8703/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/d3d8c18a79b67d645bddfdd6fffb8703/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/f9e8569deeaf180b86f7562a710bfef1/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/f9e8569deeaf180b86f7562a710bfef1/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/edd8358959bcd574f4215fe1eabadd66/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/edd8358959bcd574f4215fe1eabadd66/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/louissankey/.gradle/caches/transforms-2/files-2.1/e38406c3868374cab3a5f1196f48f583/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64

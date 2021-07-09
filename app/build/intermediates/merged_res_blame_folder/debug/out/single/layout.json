@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/louissankey/Desktop/pac12Kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/vod_item.xml",
+        "source": "/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/res/layout/vod_item.xml"
+    },
+    {
+        "merged": "/Users/louissankey/Desktop/pac12Kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/louissankey/Desktop/pac12Kotlin-master/app/src/main/res/layout/activity_main.xml"
+    }
+]

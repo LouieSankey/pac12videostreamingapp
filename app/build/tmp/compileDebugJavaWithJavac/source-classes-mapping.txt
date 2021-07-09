@@ -1,0 +1,6 @@
+com/example/pac_12androidchallenge/BuildConfig.java
+ com.example.pac_12androidchallenge.BuildConfig
+com/example/pac_12androidchallenge/databinding/VodItemBinding.java
+ com.example.pac_12androidchallenge.databinding.VodItemBinding
+com/example/pac_12androidchallenge/databinding/ActivityMainBinding.java
+ com.example.pac_12androidchallenge.databinding.ActivityMainBinding
